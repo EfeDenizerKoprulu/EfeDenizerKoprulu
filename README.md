@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 , Ben Efe Denizer Köprülü</h1><h3 align="center">Jr. Backend Developer - Computer Programmer</h3>
-<img src="https://komarev.com/ghpvc/?username=efedenizerkoprulu&label=Profile%20views&color=0e75b6&style=flat" alt="efedenizerkoprulu" /> </p>
 
 
 Languages and Tools:</h3>
