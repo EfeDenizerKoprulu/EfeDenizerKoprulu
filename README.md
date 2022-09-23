@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I'm Efe Denizer Köprülü</h1><h3 align="center">Jr. Backend Developer - Graduate Computer Programmer & MIS student</h3>
+<h1 align="center">Hi 👋 , I'm Efe Denizer Köprülü</h1><h3 align="center">Jr. Backend Developer - Graduate Computer Programmer & IMS student</h3>
 
 
 Languages and Tools:</h3>
